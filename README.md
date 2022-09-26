@@ -1,19 +1,22 @@
 <h1 align="center">Hello, I'm <a href="https://t.me/le_tum" target="_blank">Regina</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<img src="https://disk.yandex.ru/i/rL0K4RUldP6j5Q" height="32"/></h1>
-<h3 align="center"> 🇷🇺</h3>
+<img src="https://github.com/blackcater/blackcater/gifs_and_icons/hi.gif" height="32"/></h1>
+<h3 align="center"> I'm a student of Ecole 42</h3>
 
-<!--
-**refrain42/refrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=15&pause=1000&color=F7F7F7&center=true&width=435&lines=I'm+a+student+of+Ecole+42+programming+school" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+[![refrain's 42 stats](https://badge.mediaplus.ma/binary/refrain)](https://github.com/oakoudad/badge42)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+<!-- **refrain42/refrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started: -->
+
+- 🧐 I’m currently working on  graphic 3D design project
+- 📝 I’m currently learning <img src="https://github.com/blackcater/blackcater/gifs_and_icons/C++.svgf">
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
