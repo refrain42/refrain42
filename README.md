@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm <a href="https://github.com/refrain42/" target="_blank">Regina</a> 
+<img src="https://disk.yandex.ru/i/rL0K4RUldP6j5Q" height="32"/></h1>
 
 <!--
 **refrain42/refrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
