@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm <a href="https://t.me/le_tum" target="_blank">Regina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <img src="https://disk.yandex.ru/i/rL0K4RUldP6j5Q" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center"> 🇷🇺</h3>
 
 <!--
 **refrain42/refrain42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
