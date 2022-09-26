@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/gifs_and_icons/hi.gif" height="32"/></h1>
 <h3 align="center"> I'm a student of Ecole 42</h3>
 
-<a align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=15&pause=1000&color=F7F7F7&center=true&width=435&lines=I'm+a+student+of+Ecole+42+programming+school" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=15&pause=1000&color=F7F7F7&center=true&width=435&lines=I'm+a+student+of+Ecole+42+programming+school" alt="Typing SVG" /></a>
 
 
 
