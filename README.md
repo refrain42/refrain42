@@ -5,7 +5,7 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8ja0tfb00300gkuess8mtke/stats?cursusId=21&coalitionId=90" alt="refrain's 42 stats" /></a>
 
-- 🧐 I’m currently working on a graphic 3D design project
+<!-- - 🧐 I’m currently working on a graphic 3D design project -->
 - 📝 I’m currently learning <img src="https://github.com/refrain42/refrain42/blob/main/imgs/C%2B%2B.svg" height="24"/>
 
 
